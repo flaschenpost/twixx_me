@@ -1,0 +1,6 @@
+Installation:
+1. Activate developer mode in chrome extensions
+2. Store manifest.js and content.js into an otherwise empty folder
+3. add this folder as a chrome extension
+
+Good Luck!
